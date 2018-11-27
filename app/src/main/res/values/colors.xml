@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="disappointed_faded_red">#ffde3c50</color>
+    <color name="sad_warm_grey">#ff9b9b9b</color>
+    <color name="normal_cornflower_blue_65">#a5468ad9</color>
+    <color name="happy_light_sage">#ffb8e986</color>
+    <color name="super_happy_banana_yellow">#fff9ec4f</color>
+</resources>

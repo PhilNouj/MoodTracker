@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackerNouj</string>
+    <string name="current_smiley">CurrentSmiley</string>
+    <string name="current_bgd">CurrentBgd</string>
+</resources>
